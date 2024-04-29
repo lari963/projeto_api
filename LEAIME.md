@@ -11,4 +11,6 @@ primeiro passo para criar um remote
 1 passo- Acesse o GitHub e clique em "New repository" para criar um novo repositório.
    - Dê um nome ao repositório e clique em "Create repository".
 
-   
+
+2 passo- Abra o terminal no seu computador.
+
