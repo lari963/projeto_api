@@ -17,3 +17,8 @@ primeiro passo para criar um remote
 3 passo- Use o comando cd para navegar até o diretório do seu projeto.
 
 4 passo- Se o seu projeto ainda não é um repositório Git, inicialize-o usando o comando git init.
+
+ - Configure seu nome de usuário e endereço de e-mail no Git usando os comandos:
+     
+     git config --global user.name "Seu Nome"
+     git config --global user.email "seu@email.com"
