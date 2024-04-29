@@ -15,5 +15,5 @@ Passo 4: Selecione o sistema operacional que você está usando (Windows, MacOS,
 Passo 5: Escolha a versão Selecione a versão do Python que deseja instalar, Recomenda-se sempre a versão mais recente estável.
 
 
-teste
+
 parabens, você concluiu!
