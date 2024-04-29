@@ -18,7 +18,12 @@ primeiro passo para criar um remote
 
 4 passo- Se o seu projeto ainda não é um repositório Git, inicialize-o usando o comando git init.
 
- - Configure seu nome de usuário e endereço de e-mail no Git usando os comandos:
+5 passo- Configure seu nome de usuário e endereço de e-mail no Git usando os comandos:
      
      git config --global user.name "Seu Nome"
      git config --global user.email "seu@email.com"
+
+6 passo- No GitHub, encontre o URL do seu repositório e copie-o.
+   - No terminal, adicione o URL remoto usando o comando:
+     
+     git remote add origin URL_do_seu_repositório_no_github
