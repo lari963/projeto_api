@@ -16,3 +16,4 @@ primeiro passo para criar um remote
 
 3 passo- Use o comando cd para navegar até o diretório do seu projeto.
 
+4 passo- Se o seu projeto ainda não é um repositório Git, inicialize-o usando o comando git init.
