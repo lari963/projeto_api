@@ -37,3 +37,5 @@ primeiro passo para criar um remote
    - Envie os arquivos para o GitHub usando o comando:
      
      git push -u origin master
+
+9 passo-    - Se solicitado, insira seu nome de usuário e senha do GitHub.
