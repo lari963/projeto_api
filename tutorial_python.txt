@@ -36,3 +36,11 @@ O virtualenv é uma ferramenta para criar ambientes Python isolados.
 
 bash
 pip install virtualenv
+
+Passo 2: Criar a pasta do projeto
+
+Crie uma pasta para o seu projeto e navegue até ela no terminal:
+
+bash
+mkdir meu_projeto_flask
+cd meu_projeto_flask
