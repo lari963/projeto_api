@@ -95,3 +95,10 @@ def home():
 
 if name == 'main':
     app.run(debug=True)
+
+Passo 3: Executar o aplicativo Flask
+
+Ainda com o ambiente virtual ativado, execute o aplicativo Flask:
+
+bash
+python app.py
