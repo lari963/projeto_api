@@ -10,3 +10,4 @@ Passo a passo para fazer o download:
 
 Passo 1: Acesse o site oficial Visite o site oficial do Python em [python.org](https://python.org).
 Passo 2: Navegue até a seção de Downloads.
+Passo 3: No site, localize a seção de 'Downloads.
