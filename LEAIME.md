@@ -31,3 +31,9 @@ primeiro passo para criar um remote
 7 passo- Verifique se o repositório remoto foi adicionado corretamente usando o comando:
      
      git remote -v
+
+8 passo- Adicione seus arquivos ao commit usando o comando git add ..
+   - Faça um commit dos arquivos usando o comando git commit -m "Mensagem do commit".
+   - Envie os arquivos para o GitHub usando o comando:
+     
+     git push -u origin master
