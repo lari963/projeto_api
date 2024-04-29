@@ -44,3 +44,10 @@ Crie uma pasta para o seu projeto e navegue até ela no terminal:
 bash
 mkdir meu_projeto_flask
 cd meu_projeto_flask
+
+Passo 3: Criar um ambiente virtual
+
+Dentro da pasta do projeto, crie um ambiente virtual chamado venv:
+
+bash
+virtualenv venv
