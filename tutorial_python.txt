@@ -79,3 +79,19 @@ Com o ambiente virtual ativado, instale o Flask usando o pip:
 
 bash
 pip install Flask
+
+Passo 2: Criar um arquivo para o aplicativo Flask
+
+Crie um arquivo chamado app.py dentro da pasta do projeto e 
+adicione o seguinte código Python para iniciar um aplicativo básico Flask:
+
+python
+from flask import Flask
+app = Flask(name)
+
+@app.route('/')
+def home():
+    return "Hello, Flask!"
+
+if name == 'main':
+    app.run(debug=True)
