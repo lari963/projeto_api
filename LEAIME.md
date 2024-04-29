@@ -14,3 +14,5 @@ primeiro passo para criar um remote
 
 2 passo- Abra o terminal no seu computador.
 
+3 passo- Use o comando cd para navegar até o diretório do seu projeto.
+
