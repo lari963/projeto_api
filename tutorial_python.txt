@@ -1,0 +1,7 @@
+Tutorial de Instalação do Python
+
+Este tutorial guiará você através do processo de instalação do Python em seu sistema operacional.
+
+O QUE É PYTHON:Python é uma linguagem de programação de alto nível,
+ interpretada e com uma sintaxe que prioriza a legibilidade do código. 
+É utilizada em diversas áreas, como desenvolvimento web, análise de dados, inteligência artificial e automação.
