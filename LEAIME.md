@@ -5,3 +5,10 @@ O "diretório de algoritmos" é um sistema organizado que armazena e classifica 
 Dentro de cada tema, os algoritmos são acompanhados por explicações sobre sua lógica, complexidade, casos de uso e, às vezes, exemplos de código para ilustrar sua implementação prática. Além disso, o diretório pode conter testes e documentações para cada algoritmo, oferecendo uma compreensão mais profunda de suas funcionalidades e limitações. 
 
 Essa estrutura não apenas auxilia na educação e no desenvolvimento profissional, mas também serve como uma valiosa referência para desenvolvedores enfrentando desafios complexos.
+
+primeiro passo para criar um remote 
+
+1 passo- Acesse o GitHub e clique em "New repository" para criar um novo repositório.
+   - Dê um nome ao repositório e clique em "Create repository".
+
+   
