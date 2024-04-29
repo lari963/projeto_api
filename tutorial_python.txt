@@ -22,3 +22,7 @@ Tutorial: Configurar o Virtualenv e Instalar o Flask no Projeto
 
 Este tutorial orienta como configurar um ambiente virtual usando o virtualenv e instalar o Flask,
 um framework de desenvolvimento web em Python, na pasta do seu projeto.
+
+Requisitos
+- Python instalado no seu sistema
+- Acesso ao terminal ou prompt de comando.
