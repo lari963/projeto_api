@@ -51,3 +51,22 @@ Dentro da pasta do projeto, crie um ambiente virtual chamado venv:
 
 bash
 virtualenv venv
+
+
+Passo 4: Ativar o ambiente virtual
+
+Antes de instalar qualquer pacote, você deve ativar o ambiente virtual. 
+A ativação do ambiente varia conforme o sistema operacional.
+
+No Windows:
+
+bash
+.\venv\Scripts\activate
+
+
+No macOS e Linux:
+
+bash
+source venv/bin/activate
+
+Você saberá que o ambiente está ativado porque o nome do ambiente virtual (venv) aparecerá no prompt de comando.
