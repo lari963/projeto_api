@@ -39,3 +39,6 @@ primeiro passo para criar um remote
      git push -u origin master
 
 9 passo-    - Se solicitado, insira seu nome de usuário e senha do GitHub.
+
+10 passo    - Volte para o GitHub e verifique se seus arquivos foram sincronizados corretamente.
+
