@@ -9,3 +9,4 @@ O QUE É PYTHON:Python é uma linguagem de programação de alto nível,
 Passo a passo para fazer o download:
 
 Passo 1: Acesse o site oficial Visite o site oficial do Python em [python.org](https://python.org).
+Passo 2: Navegue até a seção de Downloads.
