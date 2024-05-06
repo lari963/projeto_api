@@ -1,4 +1,4 @@
-motorista = input("Digite o nome do motorista: ")
+
 origem = input("Cidade de origem: ")
 destino = input("Cidade de destino: ")
 distancia = float(input("Qual a distância em km? "))
